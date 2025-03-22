@@ -1,16 +1,24 @@
-## Hi there 👋
+## 🚀 About Me  
+Hi there!👋 I'm **Hassane Maamoune**, a **Symfony Developer** passionate about building scalable and efficient web applications.  
+With **3 years of experience**, I specialize in **backend development** using **Symfony, API Platform, and PHP**, while also working with **Next.js and Angular** for frontend projects.  
 
-<!--
-**maamoune97/maamoune97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 What I Do  
+- 🛠️ Design and develop **robust APIs** with Symfony & API Platform  
+- 🗄️ Work with **relational databases** like PostgreSQL & MySQL  
+- ⚡ Optimize **performance and security** in web applications  
+- 🐳 Implement **Dockerized environments** for scalable deployments  
+- 🤝 Collaborate with cross-functional teams to build **SaaS & ERP solutions**  
 
-Here are some ideas to get you started:
+### 📌 Tech Stack  
+- **Backend:** PHP, Symfony, API Platform  
+- **Frontend:** Next.js, Angular, JavaScript, TypeScript  
+- **Database:** PostgreSQL, MySQL  
+- **DevOps:** Docker, Git, CI/CD  
+- **Project Management:** JIRA, GitHub, GitLab  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning  
+- ⚙️ Advanced **CQRS architecture**  
+- 🚀 Improving **frontend performance optimizations**  
+
+### 📬 Let's Connect!  
+Feel free to check out my repositories, open an issue, or reach out!  
